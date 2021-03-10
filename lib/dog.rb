@@ -23,5 +23,5 @@ class Dog
     end
 end
 
-snoopy = Dog.new("Fido", "Beagle")
-puts snoopy.name
+fido = Dog.new("Fido", "Beagle")
+puts fido.name
